@@ -60,4 +60,4 @@ issue-reporting-skill/
 
 ## License
 
-© [Nishtha Pradhan]
+©Nishtha Pradhan
